@@ -8,7 +8,7 @@ https://youtu.be/vgyPPFpO63Q
 
 <img src="https://github.com/erickmohor/lumi-web/blob/main/image_preview/preview_image2.png" alt="Dashboard - Tela Inicial" width="800" height="500">
 
-<img src="https://github.com/erickmohor/lumi-web/blob/main/image_preview/preview_image3.png" alt="Dashboard - Tela de Faturas" width="800" height="500">
+<img src="https://github.com/erickmohor/lumi-web/blob/main/image_preview/preview_image3a.png" alt="Dashboard - Tela de Faturas" width="800" height="500">
 
 <img src="https://github.com/erickmohor/lumi-web/blob/main/image_preview/preview_image4.png" alt="Dashboard - Detalhes da Fatura 1" width="800" height="500">
 
